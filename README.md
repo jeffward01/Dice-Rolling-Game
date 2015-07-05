@@ -1,7 +1,7 @@
 # Dice-Rolling-Game
 Dice Rolling Game- Any number/size of Dice w/ Doubles feature
 
-Input the Number of dice, and the number of sides on each die.  
+Input the Number of dice, and the number of sides on each die.
 
 Press "Roll Dice"
 
@@ -16,3 +16,5 @@ I coded this program for practice.
 The CSS is basic 'Normalized' CSS, no fancy styles added.
 
 ENJOY!
+
+JSFiddle:  https://jsfiddle.net/jeffward01/6a4dfq5x/
