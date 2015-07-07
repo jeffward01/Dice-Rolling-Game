@@ -73,3 +73,8 @@ function logger(x) {
 function getById(x) {
   return document.getElementById(x);
 }
+
+
+//Github:
+$ cat .gitattributes
+  *.rb linguist-language=JavaScript
